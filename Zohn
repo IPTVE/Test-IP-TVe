@@ -1,0 +1,26 @@
+#EXTINF:-1,ASIAN TV
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1,BANGLA VISION
+http://27.147.156.14:1935/Bangla-Vision/Bangla-Vision.stream/chunks.m3u8
+#EXTINF:-1,BIJOY TV
+http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
+#EXTINF:-1,CHANNEL 9
+http://103.118.76.229:1935/tvprogram/CHANNEL-9/playlist.m3u8
+#EXTINF:-1,Nagorik TV
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+#EXTINF:-1,Nagorik TV
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+#EXTINF:-1,Nagorik TV
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+#EXTINF:-1,Somoy News
+http://27.147.156.14:1935/Somoy-TV/Somoy-TV.stream/chunks.m3u8
+#EXTINF:-1,Zee Bangla
+http://103.111.120.46/hls/Zee_Bangla.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
+#EXTINF:-1,Sony ESPN
+http://103.118.76.229:1935/tvprogram/SONY-ESPN/playlist.m3u8
+#EXTINF:-1,& Pictures (Opt-1)
+http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
+
+
